@@ -47,6 +47,13 @@ body {
 .text h2 {
     font-weight: 900;
 }
+.text h2 a {
+    text-decoration: none;
+    color: black;
+}
+.text h2 a:hover {
+    color: #f5d04e;
+}
 .author {
     display: flex;
     align-items: center;
